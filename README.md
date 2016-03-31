@@ -9,3 +9,6 @@ http://www.onlinecoursereport.com/the-50-most-popular-moocs-of-all-time/
 
 ####Machine learning onlie-course
 http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A376874
+
+####Hypothesis testing
+https://www.khanacademy.org/math/probability/statistics-inferential/hypothesis-testing/v/large-sample-proportion-hypothesis-testing
