@@ -3,6 +3,8 @@
   - https://en.m.wikipedia.org/wiki/Anscombe%27s_quartet
 - [ ] Impress.js
   - https://github.com/impress/impress.js
+- [ ] Wavedome
+  - http://wavedrom.com/tutorial.html
 
 **Machine Learning**
 - [ ] Machine learning onlie-course
