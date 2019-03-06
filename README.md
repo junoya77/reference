@@ -5,6 +5,15 @@
     np.version.version
     np.__version__
 
+- anaconda
+  - version check
+  - ```bash
+    $ conda list
+  - ```bash
+    $ conda update conda   # update package manager(=conda)
+    $ conda update anaconda
+    
+
 **Machine Learning**
 - statistics
   - Hypothesis testing
