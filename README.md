@@ -7,6 +7,9 @@
   - http://wavedrom.com/tutorial.html
 
 **Machine Learning**
+- feature engineering
+  - handle outlier
+    - rank transform
 - [ ] Machine learning onlie-course
   - http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A376874
 
