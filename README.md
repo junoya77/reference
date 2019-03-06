@@ -1,3 +1,10 @@
+- numpy : https://pypi.org/project/numpy/
+  - latest version : 1.16.2, 2019-02-27
+    - ```python
+      import numpy as np
+      np.version.version
+      np.__version__
+
 **Machine Learning**
 - statistics
   - Hypothesis testing
@@ -7,9 +14,10 @@
   - handle outlier
     - rank transform
       - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rankdata.html
+      - ```python
         from scipy.stats import rankdata
         rankdata([100, 50, 70])
-
+        ```
 
 **Data Visualization**
 - [ ] Data visualization's importance, Anscombe's quartet
