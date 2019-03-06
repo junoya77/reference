@@ -1,3 +1,16 @@
+**Machine Learning**
+- statistics
+  - Hypothesis testing
+    - https://www.khanacademy.org/math/probability/statistics-inferential/hypothesis-testing/v/large-sample-proportion-hypothesis-testing
+
+- feature engineering
+  - handle outlier
+    - rank transform
+      - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rankdata.html
+        from scipy.stats import rankdata
+        rankdata([100, 50, 70])
+
+
 **Data Visualization**
 - [ ] Data visualization's importance, Anscombe's quartet
   - https://en.m.wikipedia.org/wiki/Anscombe%27s_quartet
@@ -6,18 +19,10 @@
 - [ ] Wavedome
   - http://wavedrom.com/tutorial.html
 
-**Machine Learning**
-- feature engineering
-  - handle outlier
-    - rank transform
-- [ ] Machine learning onlie-course
-  - http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A376874
-
-**Basic Statistics**
-- [ ] Hypothesis testing
-  - https://www.khanacademy.org/math/probability/statistics-inferential/hypothesis-testing/v/large-sample-proportion-hypothesis-testing
 
 **Etc.**
+- [ ] Machine learning onlie-course
+  - http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A376874
 - [ ] Onlie cource repository
   - http://www.onlinecoursereport.com/the-50-most-popular-moocs-of-all-time/
 - [ ] Markdown format guide
