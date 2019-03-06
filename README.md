@@ -1,9 +1,9 @@
 - numpy : https://pypi.org/project/numpy/
   - latest version : 1.16.2, 2019-02-27
-    - ```python
-      import numpy as np
-      np.version.version
-      np.__version__
+  - ```python
+    import numpy as np
+    np.version.version
+    np.__version__
 
 **Machine Learning**
 - statistics
